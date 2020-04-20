@@ -1,0 +1,9 @@
+1)Functional Expression and Function Declaration also class Expression and Class Declaration
+  Follow this link
+https://codeburst.io/javascript-what-is-hoisting-dfa84512dd28
+
+ 1)Hoisting
+2)Function Expression && Function Declaration
+3)class
+4)Constructer
+5)Super
